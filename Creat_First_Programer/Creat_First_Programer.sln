@@ -5,7 +5,10 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creat_First_Programer", "Creat_First_Programer\Creat_First_Programer.csproj", "{89152124-656B-440D-8098-CC8844D93559}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review", "Review", "{256FD14A-AF05-4496-9B24-C9402972B21A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review", "Review", "{294E7B59-7BB9-4E84-AFA8-2A888B985E0C}"
+	ProjectSection(SolutionItems) = preProject
+		2017-7-30-note.html = 2017-7-30-note.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
