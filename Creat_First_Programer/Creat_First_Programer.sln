@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review", "Review", "{294E7B59-7BB9-4E84-AFA8-2A888B985E0C}"
 	ProjectSection(SolutionItems) = preProject
 		2017-7-30-note.html = 2017-7-30-note.html
+		新建 Microsoft Word 文档.docx = 新建 Microsoft Word 文档.docx
 	EndProjectSection
 EndProject
 Global
