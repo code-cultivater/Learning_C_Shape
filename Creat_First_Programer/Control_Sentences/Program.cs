@@ -1,14 +1,16 @@
 ﻿using System;
+using Control_Sentences;
 
-namespace Creat_First_Programer
+namespace Control_Sentences
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("hello word!");
-            Console.ReadLine();  
+            Jude.condition_Judge();
+            Jude.loop();
+            Console.Read();
         }
     }
 }
